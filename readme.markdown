@@ -1,3 +1,6 @@
+Note that this is an overview of the content of this repo, further 
+details may be found in readme files who are included in the download.
+
 Extensions
 ==========
 
