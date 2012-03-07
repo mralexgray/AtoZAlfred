@@ -25,7 +25,7 @@ Extensions
 
 		ddup
 
-- Echo: echo your clipboard content in Growl
+- Echo: echo your clipboard content with Growl
 
 		echo
 
@@ -41,7 +41,7 @@ Extensions
 
 		gtime
 
-- Log: prepend text to log.txt
+- Log: prepend text to log.txt, handy for keeping snippets, notes, to-do lists, etc. See the readme and script of the extension to tweak.
 
 		log {query}
 
@@ -59,4 +59,4 @@ Extensions
 
 - Traceroute: get the route to a host
 
-		traceroute
+		traceroute {somewebsite.com}
