@@ -41,9 +41,9 @@ Extensions
 
 		gtime
 
-- Log: refer to the [Alfred’s Log repo] ().
+- Log: add entries to specified files, refer to [this article] (http://heretiksambrosia.net/node/108) for info
 
-		
+		log filename:entry to add
 
 - Sort Clipboard: sort the content of your clipboard alphabetically 
 
