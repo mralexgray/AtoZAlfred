@@ -8,6 +8,9 @@ details ‘may’ be found in readme files who are included in the download.
 Extensions
 ==========
 
+- Another: open another instance of an application
+		
+		another "application name"
 
 - Brew Installer: install brew packages with Alfred
 
@@ -36,6 +39,10 @@ Extensions
 - Flush DNS cache
 
 		flush dns
+		
+- Fnode: open an irc channel
+
+		fnode "irc-channel"
 
 - Gtime: display the date and time with Growl
 
