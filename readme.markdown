@@ -44,7 +44,7 @@ Extensions
 
 		fnode "irc-channel"
 
-- [Gtime] (https://github.com/sjugge/Alfred/blob/master/extensions/applescripts/Gtime.alfredextension]: display the date and time with Growl
+- [Gtime] (https://github.com/sjugge/Alfred/blob/master/extensions/applescripts/Gtime.alfredextension): display the date and time with Growl
 
 		gtime
 
